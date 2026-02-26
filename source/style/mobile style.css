@@ -1,0 +1,119 @@
+@media (max-width: 768px){
+
+.link-div-box{
+    width: 100%;
+}
+
+.text-section h1,h2{
+    margin:  0 0 40px 10px;
+}
+
+.text-section a{
+    margin: 0 0 0 10px;
+}
+}
+
+@media (max-width: 600px){
+    
+.header-box{
+        flex-wrap: wrap;
+}
+    
+.nova-horizon-logo{
+    border-radius: 10px;
+    max-height: 28px;
+    max-width: 80px;
+}
+
+.nova-horizon-logo img{
+    height: 11px;
+}
+    
+.link-div-box{
+    width: 100%;
+}
+
+.link-label-button-a,
+.link-label-button-b,
+.link-label-button-c,
+.link-label-button-d{
+    font-size: 10px;
+    height: 28px;
+    width: 68px;
+}
+
+.nav-box-a,
+.nav-box-b,
+.nav-box-c,
+.nav-box-d{
+    width: 140px;
+    text-align: center;
+}
+
+.link-div-box-click:hover  .nav-box-a,
+.link-div-box-click:hover  .nav-box-b,
+.link-div-box-click:hover  .nav-box-c,
+.link-div-box-click:hover   .nav-box-d{
+    height: 180px;
+}
+
+.nav-click{
+    height: 100%;
+    width: 100%;
+    font-size: 10px;
+    max-height: 34px;
+    max-width: 128px;
+}
+
+.reserva-box{
+    text-align: center;
+    font-size: 10px;
+    max-height: 28px;
+    max-width: 80px;
+}
+
+.text-section h1,h2{
+    font-size: 20px;
+    margin:  0 0 40px 10px;
+}
+
+.text-section a{
+    margin: 0 0 0 10px;
+    font-size: 10px;
+    max-height: 28px;
+    max-width: 80px;
+}
+
+.link-cards{
+    border-radius: 10px;
+    margin: 2px;
+    height: 300px;
+    width: 100%;
+}
+
+.link-cards img{
+    max-height: 100px;
+    max-width: 100px;
+    margin-top: 25%;
+}
+
+.link-cards span{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+    
+section .link-cards p{
+    margin-top: 50px;
+    height: 100px;
+}
+    
+section .link-cards span{
+    margin-bottom: 32px;
+    height: 30px;  
+}
+    
+.link-cards p{
+    margin: 16px;
+    font-size: 12px;
+}
+}
